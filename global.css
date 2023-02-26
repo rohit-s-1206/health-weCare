@@ -1,0 +1,39 @@
+:root {
+  /* fonts */
+  --font-ibarra-real-nova: "Ibarra Real Nova";
+  --font-inter: Inter;
+  --font-ibm-plex-sans: "IBM Plex Sans";
+
+  /* font sizes */
+  --font-size-2xs: 11px;
+  --font-size-xs: 12px;
+  --font-size-sm: 13px;
+  --font-size-base: 14px;
+  --font-size-lg: 15px;
+  --font-size-xl: 16px;
+  --font-size-2xl: 20px;
+  --font-size-3xl: 24px;
+  --font-size-4xl: 32px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-snow: #fffafa;
+  --color-red-100: #ff0716;
+  --color-red-200: #ff0303;
+  --color-red-300: #ff0000;
+  --color-red-400: #fd0000;
+  --color-red-500: #fa0000;
+  --color-black: #000;
+  --color-gray-100: #fffdfd;
+  --color-gray-200: #fdfdfd;
+  --color-gray-300: #07041e;
+  --color-silver: #ccbaba;
+  --color-mediumaquamarine: #72daa2;
+  --color-lightgreen: #78d381;
+  --color-lightcyan-100: #d5f7fe;
+  --color-gainsboro: #d9d9d9;
+  --color-paleturquoise: #b0eff8;
+  --color-yellow: #fff84e;
+  --color-mediumturquoise: #26ccc2;
+  --color-aliceblue: #edf7f9;
+}
